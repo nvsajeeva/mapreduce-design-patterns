@@ -1,0 +1,11 @@
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/MRDPUtils.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/sampling/SimpleRandomSampling.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/distinct/DistinctUser.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/count/CountNumUsersByState.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/topten/TopTenUsersByReputation.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/filter/BloomFilter.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/count/WordCount.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/filter/BloomFilterTrainer.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/topten/Pair.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/index/UrlIndex.java
+/Users/Sajeevalakmal/Documents/MSc/BDP/mapreduce-design-patterns/src/main/java/week4/filter/DistributedGrep.java
